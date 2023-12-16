@@ -4,6 +4,7 @@ A semester-long undergraduate project, that integrates building a complete machi
 
 For this project, I will only be using the 'amazon_reviews_us_Beauty_v1_00.tsv' data set, but the script can be used for other individual files from the Amazon Reviews data set. This file was downloaded individually on the AWS CLI using an API command provided by the link below. All files in this project will be stored in it's respective folders from my AWS S3 bucket. All scripts were produced using the Databricks Community Edition.
 
+## Links:
 - **Link to Kaggle Data Set**: https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset
 - **Link to Databricks Community Edition**: https://docs.databricks.com/en/getting-started/community-edition.html
 
