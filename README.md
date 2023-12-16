@@ -10,14 +10,14 @@ For this project, I will only be using the 'amazon_reviews_us_Beauty_v1_00.tsv' 
 
 **Note: This dataset is 22 GB. Please consider copying the API command that is available at the link to download individual files that you will be working with.**
 
-## Exploratory Data Analysis (EDA) Statistical Graphs**:
+## Exploratory Data Analysis (EDA) Statistical Graphs:
 - <img width="441" alt="Number_of_Reviews_by_Date" src="https://github.com/garyanmai/Amazon-Reviews-BigData/assets/145724601/558c04a3-8f2f-4c69-a324-188f32093bcb">
 
 - <img width="450" alt="star_ratings_by_star_rating" src="https://github.com/garyanmai/Amazon-Reviews-BigData/assets/145724601/94fce237-44dd-40b7-b6f8-bc80498ad66b">
 
 - <img width="445" alt="num_reviews_by_dayofweek" src="https://github.com/garyanmai/Amazon-Reviews-BigData/assets/145724601/c28cbeb9-376f-4872-813e-ac18c0be8848">
 
-## Predictive Modeling Graphs**
+## Predictive Modeling Graphs:
 - <img width="641" alt="LinearRegression_model1" src="https://github.com/garyanmai/Amazon-Reviews-BigData/assets/145724601/3c39b2fe-76c6-4645-ac0d-50434ff51d63">
 
 - <img width="634" alt="LogReg_model1" src="https://github.com/garyanmai/Amazon-Reviews-BigData/assets/145724601/50568834-82cf-4bc4-89c1-9ac16e2e65a5">
